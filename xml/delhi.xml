@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+	<title>Delhi</title>
+	<description>Delhi Tourism, a government undertaking facilitating tourism since 1975 will take you to a guided tour of the Delhi through this website. It explores the wonders of Delhi, its heritage, the art and craft, the diverse cuisine and culture. A symbol of the country's rich past and thriving present, Delhi is a city where ancient and modern blend seamlessly together. It is a place that not only touches your pulse but even fastens it to a frenetic speed. Home to millions of dreams, the city takes on unprecedented responsibilities o realizing dreams bringing people closer and inspiring their throughts.</description>
+	<places>
+        <item name="akshardham">
+            <name>akshardham</name>
+            <description>An epitome of Indian culture, spirituality, and architecture, Akshardham Temple is a famous Hindu temple and a spiritual-cultural complex. Also known as Swaminarayan Akshardham, it is dedicated to Lord Swaminarayan. Akshardham has made its way to the Guinness Book of World Records as the World's Largest Comprehensive Hindu Temple.The Akshardham Temple is known for its stunning architecture. It has eight ostentatiously carved mandapams while timeless Hindu teachings and flamboyant devotional traditions find their place on the temple's walls. The centrepiece, i.e. Lord Swaminarayan's Murti along with that of 20,000 deities, significant personalities in Indian history and sages showcase the essence of Indian architecture, traditions and timeless spiritual thoughts. Akshardham complex is home to India's largest step well which is a host to the mesmerising water show; an open garden, Narayan Sarovar, various expeditions, and rituals. The complex is not less than a paradise for spiritual seekers.</description>
+            <time-needed>1h to whole day</time-needed>
+            <entry-fee>none</entry-fee>
+            <timings>9:30am to 8:00pm, entry closes at 6:30pm</timings>
+            <photography>Not allowed</photography>
+            <open-on>All days of the week except Monday</open-on>
+            <prior-booking>Not required</prior-booking>
+            <Electronic & Mobile Phones>Not allowed</Electronic & Mobile Phones>
+            <Outside Food>Not Allowed</Outside Food>
+            <Parking>Available</Parking>
+            <Dress code>Arms, shoulders, chest, navel and legs have to be covered.</Dress code>
+            <exhibitons>SAHAJANAND DARSHAN – HALL OF VALUES NEELKANTH DARSHAN – GIANT SCREEN FILM </exhibitons>
+        </item>
+        <item name="akshardham">
+            <name>akshardham</name>
+            <description>An epitome of Indian culture, spirituality, and architecture, Akshardham Temple is a famous Hindu temple and a spiritual-cultural complex. Also known as Swaminarayan Akshardham, it is dedicated to Lord Swaminarayan. Akshardham has made its way to the Guinness Book of World Records as the World's Largest Comprehensive Hindu Temple.The Akshardham Temple is known for its stunning architecture. It has eight ostentatiously carved mandapams while timeless Hindu teachings and flamboyant devotional traditions find their place on the temple's walls. The centrepiece, i.e. Lord Swaminarayan's Murti along with that of 20,000 deities, significant personalities in Indian history and sages showcase the essence of Indian architecture, traditions and timeless spiritual thoughts. Akshardham complex is home to India's largest step well which is a host to the mesmerising water show; an open garden, Narayan Sarovar, various expeditions, and rituals. The complex is not less than a paradise for spiritual seekers.</description>
+            <time-needed>1h to whole day</time-needed>
+            <entry-fee>none</entry-fee>
+            <timings>9:30am to 8:00pm, entry closes at 6:30pm</timings>
+            <photography>Not allowed</photography>
+            <open-on>All days of the week except Monday</open-on>
+            <prior-booking>Not required</prior-booking>
+            <Electronic & Mobile Phones>Not allowed</Electronic & Mobile Phones>
+            <Outside Food>Not Allowed</Outside Food>
+            <Parking>Available</Parking>
+            <Dress code>Arms, shoulders, chest, navel and legs have to be covered.</Dress code>
+            <exhibitons>SAHAJANAND DARSHAN – HALL OF VALUES NEELKANTH DARSHAN – GIANT SCREEN FILM </exhibitons>
+        </item>
+	</places>
+</root>
