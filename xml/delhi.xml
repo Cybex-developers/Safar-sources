@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <root>
 	<title>Delhi</title>
-	<description>Delhi Tourism, a government undertaking facilitating tourism since 1975 will take you to a guided tour of the Delhi through this website. It explores the wonders of Delhi, its heritage, the art and craft, the diverse cuisine and culture. A symbol of the country's rich past and thriving present, Delhi is a city where ancient and modern blend seamlessly together. It is a place that not only touches your pulse but even fastens it to a frenetic speed. Home to millions of dreams, the city takes on unprecedented responsibilities o realizing dreams bringing people closer and inspiring their throughts.</description>
+	<description>Delhi is a beautiful city and it is the capital of India. It is an old city because it has many buildings that were built during the ancient time. Delhi has two parts one is old Delhi which is built during the Mughal period and New Delhi which has many beautiful parks and big new buildings.</description>
 	<places>
-        <item name="akshardham">
+        <item name="akshardham" types="['spiritual', 'exhibitions', 'laser-show']">
             <name>akshardham</name>
+            <image>base</image>
             <description>An epitome of Indian culture, spirituality, and architecture, Akshardham Temple is a famous Hindu temple and a spiritual-cultural complex. Also known as Swaminarayan Akshardham, it is dedicated to Lord Swaminarayan. Akshardham has made its way to the Guinness Book of World Records as the World's Largest Comprehensive Hindu Temple.The Akshardham Temple is known for its stunning architecture. It has eight ostentatiously carved mandapams while timeless Hindu teachings and flamboyant devotional traditions find their place on the temple's walls. The centrepiece, i.e. Lord Swaminarayan's Murti along with that of 20,000 deities, significant personalities in Indian history and sages showcase the essence of Indian architecture, traditions and timeless spiritual thoughts. Akshardham complex is home to India's largest step well which is a host to the mesmerising water show; an open garden, Narayan Sarovar, various expeditions, and rituals. The complex is not less than a paradise for spiritual seekers.</description>
             <time-needed>1h to whole day</time-needed>
             <entry-fee>none</entry-fee>
@@ -14,9 +15,16 @@
             <prior-booking>Not required</prior-booking>
             <Electronic-and-Mobile-Phones>Not allowed</Electronic-and-Mobile-Phones>
             <Outside-Food>Not Allowed</Outside-Food>
+            <Food-Court>Yes</Food-Court>
             <Parking>Available</Parking>
-            <Dress-code>Arms, shoulders, chest, navel and legs have to be covered.</Dress-code>
-            <exhibitons>SAHAJANAND DARSHAN – HALL OF VALUES NEELKANTH DARSHAN – GIANT SCREEN FILM </exhibitons>
+            <Dress-code>Arms, shoulders, chest, navel and legs have to be covered. Shoes are not allowed inside the temple</Dress-code>
+            <exhibitons value="4">SANSKRUTI DARSHAN – CULTURAL BOAT RIDE and
+                SAHAJANAND DARSHAN – HALL OF VALUES and
+                NEELKANTH DARSHAN – GIANT SCREEN FILM 
+                @ Adults (Age 12+): Rs 250 Seniors (Age 60+): Rs 200 Children (Age 4 – 11): Rs 150 Children (Below Age 4): Free \n
+                SAHAJ ANAND FOUNTAIN AND LASER SHOW @ Adults (Age 12+): Rs 90 Children (Age 4 – 11): Rs 60 Children (Below Age 4): Free
+            </exhibitons>
+            <rating>5</rating>
         </item>
 	</places>
 </root>
